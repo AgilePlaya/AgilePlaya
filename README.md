@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -91,5 +91,5 @@ HTML                     2 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AgilePlaya/AgilePlaya/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 18:46:14 UTC
+ Last Updated on 14/01/2023 18:43:11 UTC
 <!--END_SECTION:waka-->

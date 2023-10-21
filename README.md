@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 > 📦 256.1 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2023
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 19 Public Repositories 
@@ -88,5 +86,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgilePlaya/AgilePlaya/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2023 18:40:04 UTC
+ Last Updated on 21/10/2023 18:39:46 UTC
 <!--END_SECTION:waka-->

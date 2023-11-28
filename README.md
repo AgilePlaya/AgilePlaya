@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
@@ -88,5 +88,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgilePlaya/AgilePlaya/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2023 18:39:46 UTC
+ Last Updated on 28/11/2023 18:41:13 UTC
 <!--END_SECTION:waka-->

@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -32,45 +30,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                265 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-🌆 Daytime                543 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-🌃 Evening                1323 commits        ████████████░░░░░░░░░░░░░   49.48 % 
-🌙 Night                  543 commits         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   194 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-Tuesday                  477 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Wednesday                254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Thursday                 648 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Friday                   375 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Saturday                 337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Sunday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -88,5 +47,5 @@ EJS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AgilePlaya/AgilePlaya/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2023 18:40:20 UTC
+ Last Updated on 06/12/2023 18:40:54 UTC
 <!--END_SECTION:waka-->

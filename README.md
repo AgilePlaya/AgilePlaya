@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
+![Code Time Last 365 Days](http://img.shields.io/badge/Code%20Time-23%20mins-blue)
 <!--
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)-->
 
@@ -50,7 +50,7 @@ Saturday                 337 commits         ███░░░░░░░░�
 Sunday                   389 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
 ```
 
-
+<!--
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -78,7 +78,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
-
+-->
 
 
 **Timeline**
